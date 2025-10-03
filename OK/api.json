@@ -58,6 +58,7 @@
             "style": {
                 "type": "list"
             },
+            "ext":{"danmu":true},
             "timeout": 25
         },
         {
