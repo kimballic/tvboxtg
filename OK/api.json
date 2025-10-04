@@ -24,6 +24,7 @@
                 "ratio": 1.43
             }
         },
+        {"key":"弹幕","name":"🅿弹幕|搜索","type":3,"api":"csp_ConfigCenter","jar":"https://jihulab.com/yoursmile6/TVBox/-/raw/main/custom_spider.jar"},
         {
             "key": "本地播放",
             "name": "🐼本地┃播放",
